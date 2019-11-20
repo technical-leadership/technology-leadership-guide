@@ -8,7 +8,7 @@ description: Skills e atividades necessárias para o papel de Tech Lead
 
 ### Feedback
 
-* Dá feedbacks constantes relacionados a parte técnica dos pares;
+* Dá e recebe feedbacks constantes relacionados a parte técnica dos pares;
 * Sabe interpretar a trilha de progressão e sugerir planos de ação de melhorias;
 * Reconhece evolução técnica das pessoas;
 * Faz code-review de forma amigável e construtiva;
@@ -30,7 +30,7 @@ description: Skills e atividades necessárias para o papel de Tech Lead
 
 * Tem excelente comunicação tanto na escrita como na fala;
 * Expõe as decisões técnicas ou de produto para o time de forma transparente;
-* Sabe lidar com tensões e conflitos em conversas técnicas ou de produto;
+* Sabe lidar com tensões e conflitos em conversas;
 
 ### Liderança
 
