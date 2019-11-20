@@ -41,5 +41,5 @@ Apenas reforçando o que foi descrito na introdução desse guia, os papéis aqu
 A fim de organizar essa série de responsabilidades e demandar energias mais focalizadas em estudos de cada um dos papéis, os dois abaixo fazem muito sentido para os contextos relatados anteriormente.
 
 * [Tech Lead](tech-lead/)
-* [Engineering Manager](engineering-manager.md)
+* [Engineering Manager](engineering-manager/)
 
