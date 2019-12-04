@@ -34,13 +34,14 @@ description: Skills e atividades necessárias para o papel de Engineering Manage
 * Identifica possíveis comportamentos que afastam as pessoas das conversas, dando feedback para pessoas que direta ou indiretamente contribuem pra esse ambiente não seguro nos times;
 * Promove sempre a colaboração e participação de todas as pessoas em reuniões, cerimônias ou interações, dando chance pra que elas falem e evitando monopolização do discurso;
 * Identifica quaisquer comportamentos que fortaleçam uma cultura de culpa por erros, trazendo sempre uma visão de aprendizado com as falhas;
+* Promove avaliações sobre a saúde do time por meio de ferramentas que demonstrem possíveis problemas relacionados à segurança psicológica;
 
 ### Estratégia e Negócios
 
 * Está alinhado\(a\) com stakeholders sobre possíveis futuras iniciativas de negócio e como a área de tecnologia pode ser impactada nisso;
-* Ajuda a definir novas estruturas de times, enxergando necessidade de crescimento;
+* Ajuda a definir novas estruturas de times, propondo movimentações e até contratações de pessoas;
 * Possibilita que as pessoas contribuam com o negócio, deixando emergir ideias e possíveis sugestões para o produto;
-* Alinha a previsibilidade das entregas e compartilha com stakeholders essas perspectivas de releases ou possíveis atrasos;
+* Colaborar com o processo seletivo de tecnologia, sugerindo melhorias e convidar pessoas a participar de partes do funil
 
 ## Engineering Manager II
 
