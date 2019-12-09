@@ -9,4 +9,5 @@ description: Listagem de referências pra construção desse documento
 * Extreme Programming, [http://www.extremeprogramming.org/](http://www.extremeprogramming.org/)
 * Management 3.0, [https://management30.com/](https://management30.com/)
 * Progression at Monzo, [https://progression.monzo.com/](https://progression.monzo.com/)
+* Progressão no GetNinjas, [https://progressao.getninjas.com.br/](https://progressao.getninjas.com.br/)
 
