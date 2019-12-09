@@ -21,7 +21,7 @@ description: Skills e atividades necessárias para o papel de Tech Lead
 
 ### Decisões Técnicas e Estratégia
 
-* Alinha com stakeholders as iniciativas futuras e consegue definir a viabilidade técnica das mesmas;
+* Promove o alinhamento com stakeholders sobre as iniciativas futuras e consegue definir a viabilidade técnica das mesmas;
 * Sabe aliar qualidade com entregas, prezando sempre no valor de negócio, no código como meio, e não como fim;
 * Coordena ou lidera decisões técnicas que fazem sentido no contexto do seu time, convidando as pessoas do time a participar quando avaliar necessário;
 * Discute com representantes de outros times mudanças que podem impactar os mesmos;

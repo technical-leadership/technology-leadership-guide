@@ -11,6 +11,7 @@ description: Skills e atividades necessárias para o papel de Engineering Manage
 * Acompanha métricas que identificam gargalos e ajudam a saber como está a eficiência dos times;
 * Evita usar métricas pra medir indivíduos;
 * Usa métricas a seu favor para sugerir melhorias no fluxo do trabalho do time;
+* Promove uma cultura de acompanhar métricas de fluxo de trabalho para outras pessoas do time;
 
 ### Liderança
 
@@ -39,9 +40,9 @@ description: Skills e atividades necessárias para o papel de Engineering Manage
 ### Estratégia e Negócios
 
 * Está alinhado\(a\) com stakeholders sobre possíveis futuras iniciativas de negócio e como a área de tecnologia pode ser impactada nisso;
-* Ajuda a definir novas estruturas de times, propondo movimentações e até contratações de pessoas;
+* Ajuda a definir novas estruturas de times, enxergando necessidade de crescimento;
 * Possibilita que as pessoas contribuam com o negócio, deixando emergir ideias e possíveis sugestões para o produto;
-* Colaborar com o processo seletivo de tecnologia, sugerindo melhorias e convidar pessoas a participar de partes do funil
+* Colabora com o processo seletivo de tecnologia, sugerindo melhorias e convidar pessoas a participar de partes do funil
 
 ## Engineering Manager II
 
@@ -49,7 +50,6 @@ description: Skills e atividades necessárias para o papel de Engineering Manage
 
 * Sugere novas formas de se acompanhar evolução do time, através de métricas específicas;
 * Faz análises profundas sobre previsibilidade e eficácia, pelas métricas;
-* Promove uma cultura de acompanhar métricas de fluxo de trabalho para outras pessoas do time;
 
 ### Liderança
 
@@ -65,7 +65,7 @@ description: Skills e atividades necessárias para o papel de Engineering Manage
 * É referência em agilidade para os pares e desenvolvedores\(as\) do time, trazendo, quando possível, conteúdo e metodologias novas para a empresa;
 * Implementa de forma colaborativa novas formas de trabalho ou práticas do time;
 * Revisa constantemente o que tem funcionado nos times e compartilha com outras pessoas;
-* Tenta fazer desnecessário o máximo que possível o papel de Agile Master ou Agile Coach nos times;
+* Tenta fazer desnecessário o máximo que possível o papel de Agile Master ou Agile Coach no dia-a-dia dos times;
 
 ### Segurança Psicológica
 
