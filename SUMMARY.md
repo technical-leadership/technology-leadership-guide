@@ -12,3 +12,13 @@
 * [Energizando os papéis](papeis/energizando-os-papeis.md)
 * [Referências](referencias.md)
 
+## Feedback
+
+## Compensação Financeira
+
+## Facilitação
+
+## Conflitos
+
+## Débitos Técnicos e Produto
+
