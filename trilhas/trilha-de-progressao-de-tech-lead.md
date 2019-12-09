@@ -51,7 +51,7 @@ description: Skills e atividades necessárias para o papel de Tech Lead
 
 ### Arquitetura
 
-* Conhece profundamente sistemas sob o domínio de negócio do seu time e os que são cross, ou de domínio de outros times;
+* Conhece profundamente sistemas sob o domínio de negócio do seu time e os que são de domínio compartilhado;
 * Lidera melhorias de arquitetura que envolvem mudanças sensíveis nos sistemas;
 * Define novos padrões de comunicação entre sistemas, trazendo novas abordagens de tecnologia para o contexto da empresa, que resolvam problemas de negócio e promovam uma arquitetura simples e robusta;
 
