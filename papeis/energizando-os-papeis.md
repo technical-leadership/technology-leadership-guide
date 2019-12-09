@@ -18,23 +18,11 @@ A sugestão é que o tempo de experimento no papel seja de **3 meses**.
 
 ### Checkpoint mensal
 
-Em cada mês, uma rodada de feedback \(seja por uma metodologia \) é feita com os skills da trilha de progressão \(os tópicos, ex: Métricas, Liderança, etc.\). Nessa rodada, idealmente todo o time deveria ser incluso, inclusive pessoas de papéis não relacionados a tecnologia, pra que haja uma avaliação mais abrangente. No fim do Feedback Canvas a pessoa sai com ações de melhorias pra evolução das skills com mais oportunidade de desenvolvimento. 
+Em cada mês, uma rodada de feedback \(seja por uma metodologia específica, como Feedback Canvas, ou outro formato\) é feita com os skills da trilha de progressão \(os tópicos, ex: Métricas, Liderança, etc.\). Nessa rodada, idealmente todo o time deveria ser incluso, inclusive pessoas de papéis não relacionados a tecnologia, pra que haja uma avaliação mais abrangente. No fim do Feedback Canvas a pessoa sai com ações de melhorias pra evolução das skills com mais oportunidade de desenvolvimento. 
 
 Outra sugestão é fazer um "check-out" da reunião, perguntando se a pessoa ainda se vê apta a exercer o papel e se ainda faz sentido continuar com o experimento. Caso negativo, voltamos a uma reunião de proposição de adoção do papel por outra pessoa do time e ela deixa de exercer as responsabilidades descritas no papel. É super importante permitir que as pessoas não se sintam obrigadas a ter um papel, pois isso pode causar frustração, e, em casos mais graves, burnout.
 
 À partir do segundo mês começa-se a observar e discutir a evolução dos skills do papel, propondo uma reflexão sobre o que melhorou e o que ainda não progrediu, dentro da expectativa das responsabilidades do papel.
-
-### Reunião de Avaliação do Experimento
-
-No fim do período de 3 meses, uma reunião de avaliação do experimento, com a presença do time e do\(a\) líder direto\(a\) da pessoa deverá feita, com o seguinte formato \(55 min ao todo\):
-
-* Todas as pessoas do time de quem está no Período do Experimento no Papel serão convidadas;
-* Na reunião, inicialmente, a pessoa que participou do experimento conta como foi a experiência nesses 3 meses, fazendo uma reflexão de como foi o processo todo \(5 min\);
-* Após a reflexão, um convite a todas as pessoas falarem sobre como foi a experiência delas em tê-la no papel \(5 a 10 min\);
-* Dito isso, todas as pessoas são convidadas a votar em finalizar o experimento, definindo de forma oficial se a pessoa está apta a continuar a exercer o papel, deixando de ser um experimento \(10 min\);
-* Caso não haja consenso em oficializar o papel:
-  * Uma rodada de objeção, caso alguém tenha, é iniciada pra discutir o porquê ainda não há clareza em oficializar o papel para a pessoa \(5 a 15 min\);
-  * Após a discussão, define-se em consenso, e caso não haja, com a decisão do\(a\) líder direto\(a\), a prolongação por mais 3 meses ou não do Período do Experimento no Papel. Caso não, a pessoa deixa de exercer o papel após essa Reunião de Avaliação do Experimento. Caso sim, um novo ciclo de experimento inicia-se \(15 min\);
 
 ## Dinâmica consensual do Período do Experimento no Papel
 
@@ -70,4 +58,16 @@ Caso haja uma estrutura de liderança que escolha tomar essas decisões, tendo c
    1. O time abre uma votação entre as duas ou mais pessoas sugeridas, pra decidirem quem pode absorver o papel;
    2. Ao fim da votação, se houver empate, a pessoa líder direta coloca seu voto entre as duas ou mais opções, decidindo quem deveria iniciar o Período do Experimento no Papel. Se não houver empate, a pessoa mais votada é informada sobre a possibilidade de exercer o papel;
 5. Após essa reunião, a pessoa que for sugerida é informada sobre essa sugestão feita no grupo, e, caso aceite, passa a ter essas responsabilidades, iniciando-se o Período do Experimento no Papel.
+
+## Reunião de Avaliação do Experimento
+
+No fim do período de 3 meses, uma reunião de avaliação do experimento, com a presença do time e do\(a\) líder direto\(a\) da pessoa deverá feita, com o seguinte formato \(55 min ao todo\):
+
+* Todas as pessoas do time de quem está no Período do Experimento no Papel serão convidadas;
+* Na reunião, inicialmente, a pessoa que participou do experimento conta como foi a experiência nesses 3 meses, fazendo uma reflexão de como foi o processo todo \(5 min\);
+* Após a reflexão, um convite a todas as pessoas falarem sobre como foi a experiência delas em tê-la no papel \(5 a 10 min\);
+* Dito isso, todas as pessoas são convidadas a votar em finalizar o experimento, definindo de forma oficial se a pessoa está apta a continuar a exercer o papel, deixando de ser um experimento \(10 min\);
+* Caso não haja consenso em oficializar o papel:
+  * Uma rodada de objeção, caso alguém tenha, é iniciada pra discutir o porquê ainda não há clareza em oficializar o papel para a pessoa \(5 a 15 min\);
+  * Após a discussão, define-se em consenso, e caso não haja, com a decisão do\(a\) líder direto\(a\), a prolongação por mais 3 meses ou não do Período do Experimento no Papel. Caso não, a pessoa deixa de exercer o papel após essa Reunião de Avaliação do Experimento. Caso sim, um novo ciclo de experimento inicia-se \(15 min\);
 
