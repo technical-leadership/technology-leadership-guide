@@ -6,7 +6,7 @@ description: Papel responsável por cuidar da saúde e performance dos times e p
 
 Um\(a\) Engineering Manager tem as responsabilidades de manter a saúde dos times que atua, cuidando de possíveis problemas que permeiam a cultura de desenvolvimento de software na empresa, identificando motivadores nas pessoas pra que elas consigam estar motivadas e engajadas com os objetivos do time e da empresa, aliando às motivações pessoais.
 
-A trilha de progressão desse papel você encontra aqui: [Trilha de Progressão de Engineering Manager](trilhas/trilha-de-progressao-de-engineering-manager.md).
+A trilha de progressão desse papel você encontra aqui: [Trilha de Progressão de Engineering Manager](trilha-de-progressao-de-engineering-manager.md).
 
 ## Responsabilidades
 
